@@ -3,6 +3,8 @@ Python implementation for Colour Game where continuously coloured texts are show
 
 [![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/<VIDEO_ID>)  
 
+![Game Process](https://github.com/PreethiAnnJacob/Colour-Game/blob/main/ColourGame.mp4)
+
 https://github.com/PreethiAnnJacob/Colour-Game/assets/25536510/faf1b6ff-580f-4398-9699-6bceecd5c890
 
 https://github.com/PreethiAnnJacob/Colour-Game/blob/main/ColourGame.mp4
