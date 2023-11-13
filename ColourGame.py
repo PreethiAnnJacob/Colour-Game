@@ -30,7 +30,7 @@ def chooseNextColour():
 			score+=1 
 		typeHere.delete(0,tkinter.END) #clear the text entry box # To delete all text, we have to specify the first and last index as parameters
 		random.shuffle(colours)
-		colourLabel.config( fg = str(colours[1]), text = str(colours[0])) # fg= foreground colour. So we set font colour and the text to different colours
+		colourLabel.config( fg = colours[1], text = colours[0]) # fg= foreground colour. So we set font colour and the text to different colours
 		scoreLabel.config( text = "Score: " + str(score))
 
 # function for CountDown Timer
