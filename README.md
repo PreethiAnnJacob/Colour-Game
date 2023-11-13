@@ -13,8 +13,7 @@ Installing PyInstaller:
 1. Error with "pip3 install pyinstaller"  
 WARNING: pip is configured with locations that require TLS/SSL, however the ssl module in Python is not available.  
 2. Saw a fix that told to download run the exe file from "https://slproweb.com/products/Win32OpenSSL.html" to update the DLL files. But didn't work.  
-3. Saw another fix: "For Windows 10 if you want use pip in normal cmd, not only in Anaconda prompt. you need add 3 environment paths. like the followings:  
-  
+3. Saw another fix: "For Windows 10 if you want use pip in normal cmd, not only in Anaconda prompt. you need add 3 environment paths. like the followings:   
 D:\Anaconda3   
 D:\Anaconda3\Scripts  
 D:\Anaconda3\Library\bin   
