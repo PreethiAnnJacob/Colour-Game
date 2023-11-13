@@ -1,6 +1,7 @@
 # Colour-Game
 Python implementation for Colour Game where continuously coloured texts are shown like 'Green' in Yellow colour. Type the font colour of each texts until you are timed out.
 
+![ColourGame](https://github.com/PreethiAnnJacob/Colour-Game/assets/25536510/fbeebd91-acc9-4966-a2de-28bb969d2409)
 
 
 https://github.com/PreethiAnnJacob/Colour-Game/assets/25536510/ca63fbfa-a50b-427f-919f-d3a1c0f4ff2f
