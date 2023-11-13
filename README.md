@@ -5,6 +5,8 @@ Python implementation for Colour Game where continuously coloured texts are show
 
 https://github.com/PreethiAnnJacob/Colour-Game/assets/25536510/faf1b6ff-580f-4398-9699-6bceecd5c890
 
+https://github.com/PreethiAnnJacob/Colour-Game/blob/main/ColourGame.mp4
+
 ColourGame.py - Shows the python code  
 ColourGame.exe - EXE file made using PyInstaller.
 ColourGame.mp4 - Demo
