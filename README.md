@@ -1,8 +1,11 @@
 # Colour-Game
 Python implementation for Colour Game where continuously coloured texts are shown like 'Green' in Yellow colour. Type the font colour of each texts until you are timed out.
 
+https://github.com/PreethiAnnJacob/Colour-Game/blob/main/ColourGame.mp4
+
 ColourGame.py - Shows the python code  
 ColourGame.exe - EXE file made using PyInstaller.
+ColourGame.mp4 - Demo
 
 Adding icon to the Tkinter window:  
 1. PNG and JPG is just showing a file icon  
