@@ -31,7 +31,7 @@ Failed to execute script 'ColourGame' due to unhandled exception: bitmap "icon.i
 Traceback (most recent call last):  
   File "ColourGame.py", line 49, in <module>  
   File "tkinter\__init__.py", line 2071, in wm_iconbitmap  
-_tkinter.TclError: bitmap "icon.ico" not defined
+_tkinter.TclError: bitmap "icon.ico" not defined  
 Fix: Using absolute path.
 4. Used both: Seems working with both. Absolute path needed if wm_iconbitmap is used. With iconbitmap() absolute path is not necessary  
 root.iconbitmap(r"F:\I am trying to get better\13.11.2023 Colour Game - Python\icon.ico")  
