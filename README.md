@@ -2,15 +2,13 @@
 Python implementation for Colour Game where continuously coloured texts are shown like 'Green' in Yellow colour. Type the font colour of each texts until you are timed out.
 
 ColourGame.py - Shows the python code
+
 ColourGame.exe - EXE file made using PyInstaller.
 
 Adding icon to the Tkinter window:
 1. PNG and JPG is just showing a file icon
 2. SO converted the image to ICO format using an online converter
 3. Used iconbitmap("icon.ico")
-
-Converting to EXE:
-1. Need PyInstaller
 
 Installing PyInstaller:
 1. Error with "pip3 install pyinstaller"
@@ -24,6 +22,9 @@ D:\Anaconda3\Library\bin
 most people only add D:\Anaconda3\Scripts"
 It worked.
 4. pip3 install pyinstaller.
+
+Converting to EXE:
+1. Need PyInstaller
 
 Using PyInstaller:
 1. Run command "pyinstaller.exe --onefile --windowed --icon=icon.ico ColourGame.py"
