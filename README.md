@@ -1,7 +1,7 @@
 # Colour-Game
 Python implementation for Colour Game where continuously coloured texts are shown like 'Green' in Yellow colour. Type the font colour of each texts until you are timed out.
 
-![ColourGame](https://github.com/PreethiAnnJacob/Colour-Game/assets/25536510/fbeebd91-acc9-4966-a2de-28bb969d2409)
+![ColourGame](https://github.com/PreethiAnnJacob/Colour-Game/blob/main/ColourGame.gif)
 
 ColourGame.py - Shows the python code  
 ColourGame.exe - EXE file made using PyInstaller.
